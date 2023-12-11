@@ -4,7 +4,7 @@ import socket, os
 os.system('clear')
 print("Interagindo com FTP SERVER")
 
-ip = str(input("Digite o IP: ")).strip()
+ip = str(input("37.59.174.225")).strip()
 porta = 21
 
 meusocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
