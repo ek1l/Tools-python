@@ -1,4 +1,4 @@
-import socket,sys,os
+import socket,sys
 
 host = sys.argv[1]
 

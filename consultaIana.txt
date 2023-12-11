@@ -1,0 +1,35 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.registro.br
+
+domain:       BR
+
+organisation: Comite Gestor da Internet no Brasil
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
+address:      Brazil
+
+contact:      administrative
+name:         Demi Getschko
+organisation: Comite Gestor da Internet no Brasil
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+fax-no:       +55 11 5509 3501
+e-mail:       demi@registro.br
+
+contact:      technical
+name:         Frederico Augusto de Carvalho Neves
+organisation: Registro .br
+address:      Av. das Nações Unidas, 11541, 7. andar
+address:      São Paulo SP 04578-000
+address:      Brazil
+phone:        +55 11 5509 3505
+fax-no:       +55 11 5509 3501
+e-mail:       fneves@registro.br
+
+nserver:      A.DNS.BR 200.219.148.10 2001:12f8:6:0:0:0:0:10
+nserver:   
